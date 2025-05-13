@@ -1,0 +1,18 @@
+)]}'
+{
+  "commit": "fb97e08c0d4d4371834f6d67372b98d2e372ee32",
+  "tree": "4b825dc642cb6eb9a060e54bf8d69288fbee4904",
+  "parents": [],
+  "author": {
+    "name": "kuantung",
+    "email": "kuantung@google.com",
+    "time": "Mon Dec 12 15:15:34 2016 -0800"
+  },
+  "committer": {
+    "name": "kuantung",
+    "email": "kuantung@google.com",
+    "time": "Mon Dec 12 15:15:34 2016 -0800"
+  },
+  "message": "Initial empty repository\n",
+  "tree_diff": []
+}
